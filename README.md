@@ -29,7 +29,6 @@
 
 ---
 
-### Atualmente sou Engenheiro de Software na Investe Piaui na área de desenvolvimento web full-stack
-
+### Atualmente sou Engenheiro de Software na Investe Piaui
 
 
