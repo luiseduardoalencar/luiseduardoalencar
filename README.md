@@ -8,7 +8,6 @@
 ---
 ### O que mais utilizo no meu dia a dia!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiseduardoalencar)](https://github.com/luiseduardoalencar/github-readme-stats)
 
 <div style="display: inline_block"><br/>
 
