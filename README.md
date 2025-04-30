@@ -34,7 +34,7 @@ Sou movido por **inovação, tecnologia** e pelo prazer de **resolver desafios c
 ### 📊 GitHub Stats
 
 <div align="start">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiseduardoalencar&layout=compact&langs_count=7&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiseduardoalencar&layout=compact&langs_count=7&theme=github_dark&count_private=true&hide=ruby,jupyter%20notebook" />
 </div>
 
 ---
