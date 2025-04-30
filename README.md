@@ -1,33 +1,42 @@
+### Opa! Eu sou o Luis 🫡
 
+**`Engenheiro de Software | Especializando em IA`**
 
-### Olá! eu sou o Luis 🫡
+Tenho 25 anos, sou Engenheiro de Software e estou finalizando uma Pós-Graduação Lato Sensu em **Inteligência Artificial**.  
+Atualmente atuo como **Engenheiro de Software Pleno** no **Piauí Instituto de Tecnologia**, onde desenvolvo soluções **fullstack** 
+para uso interno e externo da instituição.  
+Minha atuação vai desde a **fase de concepção**, passando pelo desenvolvimento e testes, até o **deploy em produção**.  
+Sou movido por **inovação, tecnologia** e pelo prazer de **resolver desafios complexos** com soluções eficazes e escaláveis.
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiseduardoalencarmelo/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiseduardoalencarmelo@gmail.com?subject=&body=)
 
 ---
-### O que mais utilizo no meu dia a dia!
 
+### 🧰 Languages and Tools
 
-<div style="display: inline_block"><br/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<br />
 
-<img img-align="center" alt="html" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
+---
 
-<img img-align="center" alt="css" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
-  
-<img img-align="center" alt="javascript" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
+### 📊 GitHub Stats
 
-<img img-align="center" alt="Node.js" src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" >
-
-<img img-align="center" alt="Typescript" src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" >
-
-<img img-align="center" alt="JAVA" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" >
-
-<img img-align="center" alt="Python" src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" >
+<div align="start">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiseduardoalencar&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 ---
 
-### Atualmente sou Engenheiro de Software na Investe Piaui
-
-
+### Atualmente sou Engenheiro de Software no Piauí Instituto de Tecnologia!
