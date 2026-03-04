@@ -1,13 +1,6 @@
 ### Opa! Eu sou o Luis 🫡
 
-**`Engenheiro de Software | Especializando em IA`**
-
-Tenho 25 anos, sou Engenheiro de Software e estou finalizando uma Pós-Graduação Lato Sensu em **Inteligência Artificial**.  
-Atualmente atuo como **Engenheiro de Software Pleno** no **Piauí Instituto de Tecnologia**, onde desenvolvo soluções **fullstack** 
-para uso interno e externo da instituição.  
-Minha atuação vai desde a **fase de concepção**, passando pelo desenvolvimento e testes, até o **deploy em produção**.  
-Sou movido por **inovação, tecnologia** e pelo prazer de **resolver desafios complexos** com soluções eficazes e escaláveis.
-
+**`Engenheiro de Software`**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiseduardoalencarmelo/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiseduardoalencarmelo@gmail.com?subject=&body=)
@@ -31,13 +24,4 @@ Sou movido por **inovação, tecnologia** e pelo prazer de **resolver desafios c
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="start">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiseduardoalencar&layout=compact&langs_count=7&theme=github_dark&count_private=true&hide=ruby" />
-</div>
-
----
-
-
-### Atualmente sou Engenheiro de Software no Piauí Instituto de Tecnologia!
