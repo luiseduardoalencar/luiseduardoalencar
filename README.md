@@ -2,7 +2,9 @@
 
 **`AI Engineer & Full Stack Engineer`**
 
-Construo sistemas com LLMs de ponta a ponta: agentes, RAG, avaliação e observabilidade, junto com o produto em volta deles, do backend ao frontend, rodando na AWS.
+AI Engineer com background em Engenharia de Software, atuo integrando agentes de IA baseados em LLms à sistemas em produção, 
+com foco em Observabilidade, Evaluation e boas práticas de Desenvolvimento.
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiseduardoalencarmelo/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiseduardoalencarmelo@gmail.com?subject=&body=)
