@@ -43,7 +43,6 @@ com foco em Observabilidade, Evaluation e boas práticas de Desenvolvimento.
 <p>
   <img alt="FastAPI" title="FastAPI" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
   <img alt="Spring Boot" title="Spring Boot" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img alt="Node.js" title="Node.js" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img alt="NestJS" title="NestJS" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
   <img alt="Ruby on Rails" title="Ruby on Rails" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
 
